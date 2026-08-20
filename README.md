@@ -1,17 +1,17 @@
-# Should I Open The Window?
+# Absolute Humidity Calculator
 
-A simple web application that helps you decide whether opening a window will increase or decrease indoor humidity levels.
+A simple web application that calculates and compares absolute humidity levels for indoor and outdoor conditions.
 
 ## Overview
 
-This app calculates absolute humidity (in g/m³) for both indoor and outdoor conditions based on temperature and relative humidity. It then provides a recommendation on whether opening a window would increase or decrease your indoor humidity.
+This app calculates absolute humidity (in g/m³) for both indoor and outdoor conditions based on temperature and relative humidity. It provides a recommendation on whether opening a window would increase or decrease your indoor humidity, helping you make informed decisions about ventilation.
 
 ## Features
 
 - **Dual Input Methods**: Control temperature and humidity using either sliders or text input fields
 - **Real-time Calculations**: Instant results as you adjust the values
 - **Visual Representation**: Bar chart showing humidity levels for inside and outside
-- **Clear Recommendations**: Color-coded advice on whether to open the window
+- **Clear Results**: Color-coded comparison showing humidity differences with recommendations
 - **Responsive Design**: Works seamlessly on desktop and mobile devices
 - **No Installation Required**: Pure HTML, CSS, and JavaScript - no build process needed
 
