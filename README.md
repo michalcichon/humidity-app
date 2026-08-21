@@ -2,6 +2,8 @@
 
 A simple web application that calculates and compares absolute humidity levels for indoor and outdoor conditions.
 
+![Absolute Humidity Calculator Screenshot](assets/screenshot.png)
+
 ## Overview
 
 This app calculates absolute humidity (in g/m³) for both indoor and outdoor conditions based on temperature and relative humidity. It provides a recommendation on whether opening a window would increase or decrease your indoor humidity, helping you make informed decisions about ventilation.
